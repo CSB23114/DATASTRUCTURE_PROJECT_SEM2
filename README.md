@@ -1,4 +1,4 @@
-//FULL CODING FOR DATA STRUCTURE
+//FULL CODING FOR DATA STRUCTURE in c 
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
